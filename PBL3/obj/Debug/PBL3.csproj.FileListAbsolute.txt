@@ -1,0 +1,528 @@
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.DangNhap.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\bin\Debug\PBL3.exe.config
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\bin\Debug\PBL3.exe
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\bin\Debug\PBL3.pdb
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.exe
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.pdb
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\bin\Debug\Guna.UI2.dll
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.ManHinhChinh.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.ThucDon.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Khuyến_mãi.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.CaLamViec.resources
+D:\sem4\pbl3\PBL3\bin\Debug\PBL3.exe.config
+D:\sem4\pbl3\PBL3\bin\Debug\PBL3.exe
+D:\sem4\pbl3\PBL3\bin\Debug\PBL3.pdb
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.DangNhap.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.exe
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.pdb
+D:\sem4\pbl3\PBL3\bin\Debug\EntityFramework.dll
+D:\sem4\pbl3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\sem4\pbl3\PBL3\bin\Debug\EntityFramework.xml
+D:\sem4\pbl3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\bin\Debug\EntityFramework.dll
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\bin\Debug\EntityFramework.xml
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.NhanVienTrongCa.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.SuaKhuyenMai.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.SuaMon.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.ThemMaKM.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.ThemMon.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.ThemNhanVienVaoCa.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.KhachHang.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.NguyenLieu.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.NhanVien.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.SuaTaiKhoan.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.TaiKhoan.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNguyenLieu.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNhanVien.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNguyenLieu.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNhanVien.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.ThemTaiKhoan.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKe.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKeCa.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKeNgay.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.ChonBan.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.DatMon.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.ManHinhChinh_NV.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.Thanh.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.CaLamViec.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.ManHinhChinh.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.NhanVien.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.NhanVienTrongCa.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.SuaKhuyenMai.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.SuaMon.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.ThemMaKM.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.ThemMon.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.ThemNhanVienVaoCa.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.ThucDon.resources
+D:\sem4\pbl3\PBL3\bin\Debug\Guna.UI2.dll
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.KhachHang.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.NguyenLieu.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.SuaTaiKhoan.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.TaiKhoan.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNguyenLieu.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNhanVien.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNhanVien.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.ThemTaiKhoan.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKe.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.ChonBan.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.DatMon.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.ManHinhChinh_NV.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.DTO.Form1.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.Ban.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.CapNhatMatKhau.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietDonHang.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDon.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.DatBan.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.DonHang.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.HoaDon.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.KhachHang.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.SuaKhachHang.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.ThemKhachHang.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.ThongKe_NV.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.ThongTinNhanVien.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.XemThongTinBan.resources
+D:\GameC++\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\GameC++\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\GameC++\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\GameC++\PBL3\PBL3\bin\Debug\EntityFramework.dll
+D:\GameC++\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\GameC++\PBL3\PBL3\bin\Debug\Guna.UI2.dll
+D:\GameC++\PBL3\PBL3\bin\Debug\EntityFramework.xml
+D:\GameC++\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.DTO.Form1.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.CaLamViec.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.DangNhap.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.KhachHang.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Khuyến_mãi.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.ManHinhChinh.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.NguyenLieu.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.NhanVien.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.NhanVienTrongCa.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.SuaKhuyenMai.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.SuaMon.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.SuaTaiKhoan.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.TaiKhoan.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNguyenLieu.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNhanVien.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.ThemMaKM.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.ThemMon.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNguyenLieu.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNhanVien.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.ThemNhanVienVaoCa.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.ThemTaiKhoan.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKe.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKeCa.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKeNgay.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.ThucDon.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.Ban.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.CapNhatMatKhau.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietDonHang.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDon.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.ChonBan.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.DatBan.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.DatMon.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.DonHang.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.HoaDon.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.KhachHang.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.ManHinhChinh_NV.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.SuaKhachHang.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.Thanh.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.ThemKhachHang.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.ThongKe_NV.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.ThongTinNhanVien.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.GUI.Employee.XemThongTinBan.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\GameC++\PBL3\PBL3\obj\Debug\PBL3.pdb
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.Ban.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.CapNhatMatKhau.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietDonHang.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDon.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.DatBan.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.DonHang.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.HoaDon.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.KhachHang.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.SuaKhachHang.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.ThanhToan.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.ThemKhachHang.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.ThongKe_NV.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.ThongTinNhanVien.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.Employee.XemThongTinBan.resources
+D:\DEV\HK4\PBL3_Coffee_shop_management\PBL3\obj\Debug\PBL3.GUI.KhuyenMai.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.CaLamViec.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.DangNhap.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.KhachHang.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.KhuyenMai.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.ManHinhChinh.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.NguyenLieu.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.NhanVien.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.NhanVienTrongCa.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.SuaKhuyenMai.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.SuaMon.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.SuaTaiKhoan.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.TaiKhoan.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNguyenLieu.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNhanVien.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.ThemMaKM.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.ThemMon.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNguyenLieu.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNhanVien.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.ThemNhanVienVaoCa.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.ThemTaiKhoan.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKe.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.ThucDon.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.Ban.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.CapNhatMatKhau.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietDonHang.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDon.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.ChonBan.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.DatBan.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.DatMon.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.DonHang.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.HoaDon.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.KhachHang.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.ManHinhChinh_NV.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.SuaKhachHang.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.Thanh.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.ThemKhachHang.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.ThongKe_NV.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.ThongTinNhanVien.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.GUI.Employee.XemThongTinBan.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.exe
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.pdb
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\bin\Debug\PBL3.exe.config
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\bin\Debug\PBL3.exe
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\bin\Debug\PBL3.pdb
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\bin\Debug\EntityFramework.dll
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\bin\Debug\Guna.UI2.dll
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\bin\Debug\EntityFramework.xml
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\DEV\HK4\PBL3_CoffeeShopManagement\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.KhuyenMai.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.Thanh.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.ThemMon.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.ThanhCong.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.ThatBai.resources
+D:\sem4\pbl3\PBL3\obj\Debug\PBL3.GUI.Employee.ChinhSuaTrangThaiBan.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.CaLamViec.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.DangNhap.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.KhachHang.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.KhuyenMai.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.ManHinhChinh.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.NguyenLieu.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.NhanVien.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.NhanVienTrongCa.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.NhapSoLuongNguyenLieuDialog.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.SuaKhuyenMai.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.SuaMon.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.SuaTaiKhoan.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.TaiKhoan.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNguyenLieu.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNhanVien.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.ThemMaKM.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.ThemMon.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNhanVien.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.ThemNhanVienVaoCa.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.ThemTaiKhoan.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKe.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.ThucDon.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.Ban.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.CapNhatMatKhau.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ChinhSuaTrangThaiBan.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietDonHang.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDon.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDonSauThanhToan.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ChonBan.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.DatBan.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.DatMon.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.DonHang.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.HoaDon.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.KhachHang.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ManHinhChinh_NV.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.SuaKhachHang.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.Thanh.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ThemKhachHang.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ThemMon.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ThongKe_NV.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.ThongTinNhanVien.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.Employee.XemThongTinBan.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.ThanhCong.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.GUI.ThatBai.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.exe
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.pdb
+D:\GameC++\PBL3-BanChinh\PBL3\bin\Debug\PBL3.exe.config
+D:\GameC++\PBL3-BanChinh\PBL3\bin\Debug\PBL3.exe
+D:\GameC++\PBL3-BanChinh\PBL3\bin\Debug\PBL3.pdb
+D:\GameC++\PBL3-BanChinh\PBL3\bin\Debug\EntityFramework.dll
+D:\GameC++\PBL3-BanChinh\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\GameC++\PBL3-BanChinh\PBL3\bin\Debug\Guna.UI2.dll
+D:\GameC++\PBL3-BanChinh\PBL3\bin\Debug\EntityFramework.xml
+D:\GameC++\PBL3-BanChinh\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\GameC++\PBL3-BanChinh\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\quancaphe\PBL3\bin\Debug\PBL3.exe.config
+D:\quancaphe\PBL3\bin\Debug\PBL3.exe
+D:\quancaphe\PBL3\bin\Debug\PBL3.pdb
+D:\quancaphe\PBL3\bin\Debug\EntityFramework.dll
+D:\quancaphe\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\quancaphe\PBL3\bin\Debug\Guna.UI2.dll
+D:\quancaphe\PBL3\bin\Debug\EntityFramework.xml
+D:\quancaphe\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\quancaphe\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.CaLamViec.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.DangNhap.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.KhachHang.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.KhuyenMai.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.ManHinhChinh.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.NguyenLieu.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.NhanVien.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.NhanVienTrongCa.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.NhapSoLuongNguyenLieuDialog.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.SuaKhuyenMai.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.SuaMon.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.SuaTaiKhoan.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.TaiKhoan.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNguyenLieu.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNhanVien.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.ThemMaKM.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.ThemMon.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNhanVien.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.ThemNhanVienVaoCa.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.ThemTaiKhoan.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKe.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.ThucDon.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.Ban.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.CapNhatMatKhau.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ChinhSuaTrangThaiBan.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietDonHang.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDon.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDonSauThanhToan.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ChonBan.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.DatBan.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.DatMon.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.DonHang.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.HoaDon.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.KhachHang.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ManHinhChinh_NV.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.SuaKhachHang.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.Thanh.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ThemKhachHang.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ThemMon.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ThongKe_NV.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.ThongTinNhanVien.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.Employee.XemThongTinBan.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.ThanhCong.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.GUI.ThatBai.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\quancaphe\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\quancaphe\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\quancaphe\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\quancaphe\PBL3\obj\Debug\PBL3.exe
+D:\quancaphe\PBL3\obj\Debug\PBL3.pdb
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\bin\Debug\PBL3.exe.config
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\bin\Debug\PBL3.exe
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\bin\Debug\PBL3.pdb
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\bin\Debug\EntityFramework.dll
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\bin\Debug\Guna.UI2.dll
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\bin\Debug\EntityFramework.xml
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.CaLamViec.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.DangNhap.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.KhachHang.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.KhuyenMai.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.ManHinhChinh.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.NguyenLieu.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.NhanVien.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.NhanVienTrongCa.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.NhapSoLuongNguyenLieuDialog.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.SuaKhuyenMai.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.SuaMon.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.SuaTaiKhoan.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.TaiKhoan.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNguyenLieu.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNhanVien.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.ThemMaKM.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.ThemMon.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNhanVien.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.ThemNhanVienVaoCa.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.ThemTaiKhoan.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKe.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.ThucDon.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.Ban.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.CapNhatMatKhau.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ChinhSuaTrangThaiBan.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietDonHang.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDon.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDonSauThanhToan.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ChonBan.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.DatBan.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.DatMon.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.DonHang.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.HoaDon.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.KhachHang.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ManHinhChinh_NV.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.SuaKhachHang.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.Thanh.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ThemKhachHang.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ThemMon.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ThongKe_NV.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.ThongTinNhanVien.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.Employee.XemThongTinBan.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.ThanhCong.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.GUI.ThatBai.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.exe
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.pdb
+D:\GameC++\PBL3 - BanChinhThuc\PBL3\obj\Debug\PBL3.Form1.resources
+<<<<<<< HEAD
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.Form1.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.CaLamViec.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.DangNhap.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.KhachHang.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.KhuyenMai.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.ManHinhChinh.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.NguyenLieu.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.NhanVien.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.NhanVienTrongCa.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.NhapSoLuongNguyenLieuDialog.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.SuaKhuyenMai.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.SuaMon.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.SuaTaiKhoan.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.TaiKhoan.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNguyenLieu.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNhanVien.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.ThemMaKM.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.ThemMon.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNhanVien.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.ThemNhanVienVaoCa.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.ThemTaiKhoan.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKe.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.ThucDon.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.Ban.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.CapNhatMatKhau.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ChinhSuaTrangThaiBan.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietDonHang.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDon.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDonSauThanhToan.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ChonBan.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.DatBan.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.DatMon.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.DonHang.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.HoaDon.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.KhachHang.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ManHinhChinh_NV.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.SuaKhachHang.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.Thanh.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ThemKhachHang.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ThemMon.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ThongKe_NV.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.ThongTinNhanVien.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.Employee.XemThongTinBan.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.ThanhCong.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.GUI.ThatBai.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.exe
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.pdb
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\bin\Debug\PBL3.exe.config
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\bin\Debug\PBL3.exe
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\bin\Debug\PBL3.pdb
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\bin\Debug\EntityFramework.dll
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\bin\Debug\Guna.UI2.dll
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\bin\Debug\EntityFramework.xml
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\DEV\HK4\PBL3\PBL3_Coffee_shop_management\PBL3_final\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+=======
+D:\sem4\PBL3\code\PBL3\bin\Debug\PBL3.exe.config
+D:\sem4\PBL3\code\PBL3\bin\Debug\PBL3.exe
+D:\sem4\PBL3\code\PBL3\bin\Debug\PBL3.pdb
+D:\sem4\PBL3\code\PBL3\bin\Debug\EntityFramework.dll
+D:\sem4\PBL3\code\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\sem4\PBL3\code\PBL3\bin\Debug\Guna.UI2.dll
+D:\sem4\PBL3\code\PBL3\bin\Debug\EntityFramework.xml
+D:\sem4\PBL3\code\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.Form1.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.CaLamViec.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.DangNhap.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.KhachHang.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.KhuyenMai.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.ManHinhChinh.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.NguyenLieu.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.NhanVien.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.NhanVienTrongCa.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.NhapSoLuongNguyenLieuDialog.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.SuaKhuyenMai.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.SuaMon.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.SuaTaiKhoan.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.TaiKhoan.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNguyenLieu.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.SuaNhanVien.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.ThemMaKM.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.ThemMon.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.ThemNhanVien.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.ThemNhanVienVaoCa.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.ThemTaiKhoan.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Admin.ThongKe.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.ThucDon.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.Ban.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.CapNhatMatKhau.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ChinhSuaTrangThaiBan.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietDonHang.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDon.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ChiTietHoaDonSauThanhToan.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ChonBan.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.DatBan.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.DatMon.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.DonHang.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.HoaDon.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.KhachHang.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ManHinhChinh_NV.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.SuaKhachHang.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.Thanh.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ThemKhachHang.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ThemMon.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ThongKe_NV.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.ThongTinNhanVien.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.Employee.XemThongTinBan.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.ThanhCong.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.GUI.ThatBai.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.exe
+D:\sem4\PBL3\code\PBL3\obj\Debug\PBL3.pdb
+>>>>>>> 84a749c2ce0818e9ad05027b80fc6f9105d4857a

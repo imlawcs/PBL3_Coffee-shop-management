@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+<<<<<<< HEAD
+      <Diagram DiagramId="9c41bde746934ee3b61929ee827867ea" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.Ban" Width="1.5" PointX="6" PointY="0.875" IsExpanded="true" />
+=======
+      <Diagram DiagramId="1bbaa41a7cfd45548ac38a91c706f780" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.Ban" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+>>>>>>> 84a749c2ce0818e9ad05027b80fc6f9105d4857a
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.CaTruc" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.ChiTietHoaDon" Width="1.5" PointX="8.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.ChiTietNguyenLieu" Width="1.5" PointX="13" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.ChiTietSanPham" Width="1.5" PointX="13" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.ChucVu" Width="1.5" PointX="3.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.DoanhThu" Width="1.5" PointX="3" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.DonHang" Width="1.5" PointX="8.25" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.HoaDon" Width="1.5" PointX="6" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.KhachHang" Width="1.5" PointX="3.75" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.KhuyenMai" Width="1.5" PointX="1.5" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.LoaiKhachHang" Width="1.5" PointX="1.5" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.NguyenLieu" Width="1.5" PointX="10.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.NhanVien" Width="1.5" PointX="6" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.SanPham" Width="1.5" PointX="6" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanCaPhePBL3Model.TaiKhoan" Width="1.5" PointX="8.25" PointY="8.125" IsExpanded="true" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_ChiTietHoaDon_Ban" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_DoanhThu_CaTruc" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_ChiTietHoaDon_HoaDon" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_ChiTietHoaDon_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_ChiTietHoaDon_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_ChiTietNguyenLieu_NguyenLieu" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_ChiTietSanPham_NguyenLieu" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_ChiTietSanPham_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_MaChucVu" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_DonHang_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_HoaDon_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_KhachHang_LoaiKhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.FK_TaiKhoan_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.ChiTietCaTruc" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanCaPhePBL3Model.ChiTietKhuyenMai" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
